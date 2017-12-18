@@ -1,0 +1,31 @@
+/*Currently all elements share the same font-family */
+
+body{
+	font-family:Helvetica;
+}
+h1, h2, h3, .extra{
+	font-weight: bold;
+}
+/* Header */
+h1{             
+	font-size:100px;
+	color:khaki;
+	background-image: url("../images/pattern.jpeg");
+	text-align: center;
+}
+h2{
+	font-size: 32px;
+	color:white;
+}
+.Brushes{
+	background-color: mediumspringgreen;
+}
+.Frames{
+	background-color:lightcoral;
+}
+.Paint{
+	background-color: skyblue;
+}
+.extra{
+  color:blue;
+}
